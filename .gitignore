@@ -1,0 +1,8 @@
+# Visual Studio project cache folder.
+.vs/
+
+# Visual Studio project user settings.
+*.vcxproj.user
+
+# Folder where build generated files are placed.
+build/
